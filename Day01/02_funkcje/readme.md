@@ -26,14 +26,14 @@ input -> 5, 29
 output -> 29
 ```
 ## Ćwiczenie 3
-Napisz funkcję, która przyjmuje jako parametry dowolną ilość liczb i wyświetla większą z nich. Skożystaj z zmiennej ```arguments```.
+Napisz funkcję, która przyjmuje jako parametry dowolną ilość liczb i wyświetla większą z nich. Skorzystaj z zmiennej ```arguments```.
 
 Przykład:
 ```
 input -> 5, 29, 6, 4, 34, 56, 2, 3
 output -> 56
 ```
-## Ćwiczenie 3
+## Ćwiczenie 3a
 Stwórz funkcję która będzie zwracała sumę 3 liczb przekazaną jako argumenty.
 
 Przykład:
@@ -76,6 +76,7 @@ output -> 1150
 
 ## Ćwiczenie 7
 Napisz funkcję ```calculateTip(amount, raiting)``` która będzie pobierać dwa kwotę i opis słowny obsługi. Funkcja ma zwracać albo kwotę napiwku, albo napis "Opis nieczytelny". opis może przyjmować następujące wartości:
+
 "Bardzo dobra obsługa" => 25% napiwku,
 "Dobra obsługa" => 20% napiwku,
 "Średnia obsługa" =>15% napiwku,
@@ -84,7 +85,15 @@ Napisz funkcję ```calculateTip(amount, raiting)``` która będzie pobierać dwa
 Przykład:
 ```
 input -> 100, "Bardzo dobra obsługa"
+
+calculateTip(100, "Bardzo dobra obsługa") -> 25
+calculateTip(80, "Dobra obsługa") -> 20
+calculateTip(100, "Bardzo dobra obsługa") -> 25
+calculateTip(80, "Dobra obsługa") -> 20
+calculateTip(100, "Bardzo dobra obsługa") -> 25
+
 output -> 25
 ```
+
 
 

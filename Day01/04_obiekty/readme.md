@@ -27,10 +27,7 @@ ciałem obiektu. Dodaj też metodę które dodaje wpis do tej tablicy (uzyj ```t
 Stwórz obiekt robot. Utwórz dla niego odpowienie atrybuty: name, age, oraz metodę: sayHello, której zadaniem będzie wypisanie
 imienia robota. Następnie zmień imię robota np. robot.name = "Sony" i przetestuj jego metodę sayName() jeszcze raz.
 
-## Ćwiczenie 3
 
-Stwórz obiekt robot. Utwórz dla niego odpowienie atrybuty: name, age, oraz metodę: sayHello, której zadaniem będzie wypisanie
-imienia robota. Następnie zmień imię robota np. robot.name = "Sony" i przetestuj jego metodę sayName() jeszcze raz.
 
 ## Ćwiczenie 4
 

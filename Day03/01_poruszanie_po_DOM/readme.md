@@ -1,3 +1,5 @@
+
+
 # JavaScript - Cwiczenia DOM - Poruszanie się po DOM
 
 Zadania z poruszania się po DOM.

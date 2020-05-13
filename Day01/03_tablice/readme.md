@@ -20,6 +20,13 @@ Stwórz tablice z napisami. Potem używając odpowiedniej metody iteracyjnej spr
 2.	Mają co najmniej 1 literę
 3.	Nie zawierają spacji
 
+## Ćwiczenie 3a
+Stwórz tablice z napisami. Potem używając odpowiedniej metody iteracyjnej sprawdź czy napisy w tej tablicy spełniają następujące warunki:
+1.	Mają co najmniej 10 znaków
+2.	Mają co najmniej 1 literę
+3.	Nie zawierają spacji
+
+
 Utwórz 2 tablice: jedną z napisami które spełniają te zasady, drugą z wartościami typu boolean dla każdego napisu (true jeżeli spełnione są warunki, false jeżeli nie). 
 
 ## Ćwiczenie 4
@@ -33,9 +40,3 @@ Napisz funkcję ```createMultiTable(number)```. Funkcja ta przyjmuje liczbę ca�
 Napisz funkcję ```print2DTable(array)``` która będzie działać analogicznie do zadania 1 tylko dla tablic 2 wymiarowych.
 
 Następnie zastąp swoją funkcje metodą ```foreach```.
-
-## Ćwiczenie Dodatkowe
-Zaimplementuj następujące funkcje sortujące:
-1. Bubble Sort
-2. Selection Sort
-3. Insertion Sort
